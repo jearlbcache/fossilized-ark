@@ -35,7 +35,6 @@ results/          summary tables
   error_profiles/ mismatch rates, per-read identity histograms
   methylation_discordance/  discordance, calibration, AUROC, binomial null
   mendelian/      Mendelian concordance summaries
-figures/          all generated plots (PNG + PDF)
 ```
 
 ## Pipeline
