@@ -2,6 +2,8 @@
 
 Benchmarking ensilicated (silica-cached) vs frozen (-80C) DNA preservation for Oxford Nanopore whole-genome sequencing using the GIAB Ashkenazi trio (HG002, HG003, HG004).
 
+**Manuscript**: [medRxiv 2025.10.26.25338579v1](https://www.medrxiv.org/content/10.1101/2025.10.26.25338579v1)
+
 ## Overview
 
 This repository contains analysis scripts, summary results, and figures for a systematic comparison of ensilicated and frozen DNA preservation methods. Six whole-genome ONT libraries (3 frozen, 3 ensilicated) were sequenced, aligned to GRCh38, and benchmarked across multiple axes:
