@@ -1,0 +1,7 @@
+sample	condition	mismatch_rate_pct	supplementary_alignments_pct
+HG002	-80C	2.93	7.8
+HG002	Ensilicated	2.65	10.8
+HG003	-80C	2.87	8.0
+HG003	Ensilicated	2.60	12.0
+HG004	-80C	2.85	12.2
+HG004	Ensilicated	2.88	11.2

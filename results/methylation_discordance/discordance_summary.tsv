@@ -1,0 +1,4 @@
+sample	total_sites	discordant_sites	discordant_fraction	concordant_coverage_median	concordant_coverage_q25	concordant_coverage_q75	discordant_coverage_median	discordant_coverage_q25	discordant_coverage_q75	enriched_chromosomes	gc_concordant_mean	gc_discordant_mean
+HG002	26852464	1709130	0.063649	26.0	21.0	31.0	23.0	18.0	28.0	none	0.475754052400589	0.4418223798274994
+HG003	26727776	2268920	0.08489	22.0	18.0	26.0	20.0	16.0	24.0	none	0.475698322057724	0.44726771116256714
+HG004	24843844	2634382	0.106038	20.0	16.0	24.0	18.0	15.0	22.0	none	0.4800763726234436	0.45359694957733154

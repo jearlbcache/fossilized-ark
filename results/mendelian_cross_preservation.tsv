@@ -1,0 +1,9 @@
+trio	father_sample	father_condition	mother_sample	mother_condition	son_sample	son_condition	sites_genotyped	violations	violation_rate_pct
+FFF	HG003	Frozen	HG004	Frozen	HG002	Frozen	2357802	4005	0.1699
+CFF	HG003	Ensilicated	HG004	Frozen	HG002	Frozen	2347047	3891	0.1658
+FCF	HG003	Frozen	HG004	Ensilicated	HG002	Frozen	2351951	4096	0.1742
+CCF	HG003	Ensilicated	HG004	Ensilicated	HG002	Frozen	2342209	4114	0.1756
+FFC	HG003	Frozen	HG004	Frozen	HG002	Ensilicated	2353946	4141	0.1759
+CFC	HG003	Ensilicated	HG004	Frozen	HG002	Ensilicated	2344546	4037	0.1722
+FCC	HG003	Frozen	HG004	Ensilicated	HG002	Ensilicated	2348515	4207	0.1791
+CCC	HG003	Ensilicated	HG004	Ensilicated	HG002	Ensilicated	2340097	4209	0.1799

@@ -1,0 +1,4 @@
+sample	total_sites	r_frozen_emseq	r_ensilicated_emseq	discord_frozen_emseq	discord_rate_frozen	discord_ensilicated_emseq	discord_rate_ensilicated	mad_frozen_emseq	mad_ensilicated_emseq
+HG002	21617847	0.93822	0.93453	2064479	0.095499	2228240	0.103074	0.06	0.0625
+HG003	21058287	0.82843	0.82555	5593381	0.265614	5700504	0.270701	0.09091	0.09211
+HG004	15814467	0.8415	0.84192	4190625	0.264987	4180320	0.264335	0.09524	0.09524
