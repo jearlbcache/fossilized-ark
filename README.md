@@ -1,6 +1,6 @@
-# fossilized-ark
+# Fossilized Ark
 
-Benchmarking ensilicated (silica-cached) vs frozen (-80C) DNA preservation for Oxford Nanopore whole-genome sequencing using the GIAB Ashkenazi trio (HG002, HG003, HG004).
+Benchmarking ensilicated vs frozen (-80°C) DNA preservation for Oxford Nanopore whole-genome sequencing using the GIAB Ashkenazi trio (HG002, HG003, HG004).
 
 **Manuscript**: [medRxiv 2025.10.26.25338579v1](https://www.medrxiv.org/content/10.1101/2025.10.26.25338579v1)
 
