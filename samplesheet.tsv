@@ -1,0 +1,16 @@
+sample_name	GIAB_sample_id	role	condition	batch	replicate	fastq_filename	bioproject
+CD_3033_GIAB	HG002	son	frozen	1	1	CD_3033_GIAB.fastq.gz	PRJNA1445941
+CD_3032_Cache	HG002	son	ensilicated	1	1	CD_3032_Cache.fastq.gz	PRJNA1445941
+CD_3031_GIAB	HG003	father	frozen	1	1	CD_3031_GIAB.fastq.gz	PRJNA1445941
+CD_3030_Cache	HG003	father	ensilicated	1	1	CD_3030_Cache.fastq.gz	PRJNA1445941
+CD_3029_GIAB	HG004	mother	frozen	1	1	CD_3029_GIAB.fastq.gz	PRJNA1445941
+CD_3028_Cache	HG004	mother	ensilicated	1	1	CD_3028_Cache.fastq.gz	PRJNA1445941
+CD_3033_GIAB	HG002	son	frozen	2	1	CD_3033.fastq.gz	PRJNA1445941
+CD_3032_Cache	HG002	son	ensilicated	2	1	CD_3032.fastq.gz	PRJNA1445941
+CD_3031_GIAB	HG003	father	frozen	2	1	CD_3031.fastq.gz	PRJNA1445941
+CD_3030_Cache	HG003	father	ensilicated	2	1	CD_3030.fastq.gz	PRJNA1445941
+CD_3029_GIAB	HG004	mother	frozen	2	1	CD_3029.fastq.gz	PRJNA1445941
+CD_3028_Cache	HG004	mother	ensilicated	2	1	CD_3028.fastq.gz	PRJNA1445941
+CD_3745	HG002	son	frozen	2	1	CD_3745.fastq.gz	PRJNA1445941
+CD_3847	HG002	son	ensilicated	2	1	CD_3847.fastq.gz	PRJNA1445941
+CD_3850	HG002	son	ensilicated	2	2	CD_3850.fastq.gz	PRJNA1445941

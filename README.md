@@ -23,11 +23,12 @@ This repository contains analysis scripts, summary results, and figures for a sy
 | HG003 | Father | CD_3031_GIAB | CD_3030_Cache |
 | HG004 | Mother | CD_3029_GIAB | CD_3028_Cache |
 
-Raw sequencing data are available at NCBI SRA (accession pending).
+Raw sequencing data are available at NCBI SRA under BioProject [PRJNA1445941](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1445941). See [`samplesheet.tsv`](samplesheet.tsv) for the mapping between sample IDs, conditions, batches, and FASTQ filenames.
 
 ## Repository structure
 
 ```
+samplesheet.tsv   sample-to-FASTQ mapping (see PRJNA1445941 for raw data)
 scripts/          analysis and pipeline scripts
   *.sh            shell pipeline (alignment, variant calling, methylation extraction)
   *.py            python analysis and plotting scripts
