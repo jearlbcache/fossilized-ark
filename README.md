@@ -90,4 +90,4 @@ Reads were basecalled with Dorado v1.4.0 and aligned to GRCh38 (GIABv3 analysis 
 - **Small variant benchmark**: GIAB v4.2.1 (HG002, HG003, HG004)
 - **SV benchmark**: GIAB Tier 1 v0.6 (HG002)
 - **CpG islands**: UCSC cpgIslandExt (GRCh38)
-- **EM-seq truth**: ENCODE/GIAB EMSeq LAB01 REP01 (HG002, HG003, HG004)
+- **EMseq truth**: ENCODE/GIAB EMSeq LAB01 REP01 (HG002, HG003, HG004)
